@@ -1,5 +1,3 @@
 # windrose
-code to create windrose plots
-Below are packages that must be installed 
-pip install windrose
-pip install matplotlib
+code to create windrose plots.
+Packages that must be installed: windrose, matplotlib
